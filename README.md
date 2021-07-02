@@ -1,4 +1,4 @@
-🔭 # M. M. SALEH |salman| 
+# M. M. SALEH |_ salman _| 
  
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=javagrails" alt="javagrails" /></p> 
  
@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://www.youtube.com/watch?v=ECuqb5Tv9qI
+https://javascript.plainenglish.io/how-to-create-an-awesome-github-profile-readme-a474d5b45645
 -->
